@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# Check https://github.com/zap-zsh/atmachine-prompt for the original file
+
 autoload -Uz vcs_info
 autoload -U colors && colors
 
